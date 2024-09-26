@@ -1,0 +1,16 @@
+.chatboot{
+  height: 50svh;
+  overflow-y: scroll;
+  resize:both;
+  background: rgb(13,2,42);
+background: radial-gradient(circle, rgba(13,2,42,0.8324579831932774) 0%, rgba(0,0,0,0.8800770308123249) 78%);
+
+
+}
+.catinput{
+  height: 50svh;
+  
+}
+.catinput input{
+  width: 60svw;
+}

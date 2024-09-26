@@ -1,0 +1,15 @@
+{
+  "short_name": "tools-React",
+  "name": "tools von Hussein",
+  "icons": [
+    {
+      "src": "../src/assets/images/tools.jpg",
+      "sizes": "32*32",
+      "type": "image/jpg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,39 @@
+
+
+.repeatedboot{
+  height: 50svh;
+  overflow-y: scroll;
+  resize:both;
+  background: rgb(13,2,42);
+background: radial-gradient(circle, rgba(13,2,42,0.8324579831932774) 0%, rgba(0,0,0,0.8800770308123249) 78%);
+
+}
+.catinput{
+  height: 40svh;
+}
+.catinput input{
+  width: 60svw;
+}
+.mb-2{
+  display: block;
+}
+#validationCustom01{
+  width: 100%;
+  border-radius: 5px;
+}
+#basic-url{
+  display: inline-block;
+  width: 25%;
+  margin-left: 25%;
+  margin-top: 10px;
+  border-radius: 5px;
+  
+}
+.btn-repeater{
+  display: inline-block;
+  width: 25%;
+  margin-bottom: 5px;
+  border-radius: 5px !important;
+  
+  
+}
